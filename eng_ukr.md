@@ -16,3 +16,8 @@ There will be thechnical words with examples in a code or in a sentenses.
 |        extract         |        витяг/уривок/витягнути     |            To __extract__ data from the DB table, use key word SELECT             |
 |        separate        |              окремий              |                              __Separate__ block of code                           |
 |        certain         |              певний               |                        You need to use __certain__ attribute                      |
+|        expose          |        викривати/виставляти       |                     Types are __exposed__ in the DbSet properties                 |
+|      recursively       |            рекурсивно             |                            The function works __recursively__                     |
+|        explore         |        досліджувати/вивчати       |                          I'm __exploring__ EF Core                                |
+|         bound          |        зв'язаний/пов'язаний       |                              I __bounded__ with you.                              |
+
