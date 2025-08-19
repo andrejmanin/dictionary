@@ -54,3 +54,8 @@ There will be thechnical words with examples in a code or in a sentenses.
 |        encounter       |         зустріч\зіткнення         |              Throughout your programming career you'll also __encounter__ with different proglems and errors          |
 |         behavior       |            поведінка              |                                    Sometimes you'll not understand your code __behavior__                             |
 |       troubleshoot     |        усунути несправність       |                                      Also sometimes, you'll need to __troubleshoot__.                                 |
+|        dependency      |              залежність           |                                  We use some __dependencies__ when we write code                                      |
+|      injection         |          ін'єкція\введення        |                                                Dependency __injection__                                               |
+|         guidance       |  керівництво\настановa\посібник   |                                                 ASP.Net Core __guidance__                                             |
+|        supersede       |             замінити              |              Sometimes we need to __supersede__ some code blocks to make program work correctly or quickly.           |
+|       instantiate      |    інстанціювати\уявити\втілити   | You can instantiate the Web Application Builder like this: ```var builder = WebApplication.CreateBuilder(args);``` |
